@@ -71,3 +71,22 @@ const logWeather = ({
 };
 
 logWeather(todaysWeather);
+
+// exploring objects further
+const profile = {
+  name: "alex",
+  height: 20,
+  coords: {
+    lat: 0,
+    long: 15,
+  },
+  setAge(height: number): void {
+    this.height = height;
+  },
+};
+// destructuring objects
+const { height }: { height: number } = profile;
+
+const {
+  coords: { lat, long },
+}: { coords: { lat: number; long: number } } = profile;
