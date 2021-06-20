@@ -98,3 +98,11 @@ const cardsByMake: string[][] = [["corolla"]];
 
 // flexible types
 const importantDates: (Date | string)[] = [new Date(), "2020-10-05"];
+
+// type Alias
+
+type Drink = [string, boolean, number];
+// Tuple
+const pepsi: Drink = ["brown", true, 40];
+
+const coke: Drink = ["black", false, 20];
