@@ -90,3 +90,11 @@ const { height }: { height: number } = profile;
 const {
   coords: { lat, long },
 }: { coords: { lat: number; long: number } } = profile;
+
+// exploring arrays further
+const carMakers = ["toyota"];
+
+const cardsByMake: string[][] = [["corolla"]];
+
+// flexible types
+const importantDates: (Date | string)[] = [new Date(), "2020-10-05"];
