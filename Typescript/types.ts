@@ -1,6 +1,6 @@
 //  Various types in typescript
 
-
+// 1 - type annotations
 const age: number = 21
 const firstName: string = "Temiloluwa"
 const isMarried: boolean = false
@@ -27,3 +27,11 @@ const distance: { x, y: number } = {
 }
 
 const log: (i: number) => void = (i) => console.log(i)
+
+// 2- type inference
+const likes = 10
+
+// any type
+
+//  note: try to avoid any types as much as possible
+const coordinates = JSON.parse('{x:10}')
