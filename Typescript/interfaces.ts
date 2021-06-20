@@ -4,6 +4,9 @@ const oldBMW = {
   name: "bmw",
   year: 2000,
   broken: true,
+  summary(): string {
+    return `${this.name} ${this.year} ${this.broken}`;
+  },
 };
 
 const printVehicle = (vehicle: {
@@ -24,6 +27,7 @@ interface Vehicle {
   name: string;
   year: number;
   broken: boolean;
+  summary(): string;
 }
 
 const printVehicleTwo = (vehicle: Vehicle): void => {
