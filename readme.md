@@ -5,3 +5,8 @@ This repository contains a report (code, text, images etc) of my summer learning
 ### Day 1
 - I refreshed my understanding of basic types in typescript and learnt about Alias, Tuple and Interfaces.
 - I also tried starting the AWS beginner course on freecodecamp but unfortunately my account isn't fully activated.
+
+### Day 2
+- I restarted my DSA journey by reading the CSD book, chapter 1 and 2 on Foundations for computer science and Time complexity. I found it difficult to relate well with the mathematical concepts in chapter 1 but I realise this is something I'd often need to go back to.
+- I also started my linux learnings by taking some lessons the [LinuxJourney](linuxjourney.com) course where I learnt some new shell commands like cut, wc, expand, tail, head etc
+- I finally got my AWS account setup and started my cloud learnings. I created a billing alarm using cloudwatch and explored the IAM service by creating a new group, a new user and assigning policies. I also learnt about VPC although i found that really hard to grasp most especially the public subnet and private subnets. I learnt about stateless firewalls (Network ACLs) and stateful firewalls (Security groups). I am confident that the section on VPC, firewalls, endpoints etc are sections I would need to devote more time to learning. Finally, I learnt about the public services available in AWS and the private ones too. 

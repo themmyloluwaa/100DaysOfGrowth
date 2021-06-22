@@ -1,0 +1,60 @@
+﻿Cloudwatch
+It is a performance monitoring tool that helps collect metrics used for monitoring things like usage amount. 
+How to use cloudwatch to create billing alerts
+* Change to US east N-virginia
+* Click alarm and select create alarm
+* Select metric
+* Select select billing
+* Select total estimated charge
+* Select usd and select metric
+* Leave the threshold type and greate than then input threshold then click next
+* Create new topic and input email
+* Verify subscription in email
+* Click next and input alarm name 
+* Validate options select create alarm
+
+
+
+
+IAM
+This is the service that’s used to manage identity and access into the AWS services
+IAM USER - entity representing a person or service that policies can be applied to. These policies are permissions that can be applied to the groups and roles.
+IAM Group- container for more than one user e.g group of developers and policies can be applied to the developers
+IAM Roles - used for delegation for granting services access to other services. Policies can also be applied to them.
+
+
+Authentication methods
+Access key- used to access the AWS API. composed of access key id and secret access key
+IAM User- uses password to access AWS management console
+Only root user has access to getting billing information
+
+
+
+
+Amazon virtual private cloud (VPC)
+This is a virtual space on the cloud in which resources can be launched. It is a logically isolated portion of the AWS cloud within a region.
+   
+
+
+CIDR - classless interdomain routing takes the master address and creates separate address blocks in the range of the master address block for different subnets in the availability zones in the VPC.
+
+
+Security groups and network access control list
+These are types of firewall that can be used to restrict acces to resources in AWS. security groups apply at the instance level in any subnet while NACLs apply at the subnet level.
+
+
+Stateful firewalls allows the return traffic automatically. It doesn’t need further rules to allow inbound and outbound traffic. Security group in AWS are stateful firewalls
+Stateless firewalls checks for an allow rule for both connection between the destination and source computers. Network ACL are stateless firewalls
+
+
+  
+
+
+
+AWS Public and Private Services
+Some services in AWS have public IP addresses and endpoints by default. Services like 
+* Amazon DynamoDB
+* Amazon S3
+* Route 53
+* CloudFront
+While other services can have public IP addresses but exist within the VPC. Anything that needs to be accessed from these VPCs can be access through the internet gateway or VPC endpoints which enable connecting to the public services privately.
