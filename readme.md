@@ -18,3 +18,13 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I read the algorithms and data structures section of touch of class and i tried implementing some operations (queries and commands) by creating an Array class in python.
 - I also learnt some k8s related stuffs like cronjobs, jobs object, the generators, uses of labels and annotations.
 - It was a quiet day with regards learning but I am getting comfortable with the fact that it isn't about how long i spend learning but the consistency i build overtime.
+
+### Day 4
+
+- I started the day feeling a bit sad and down because I felt lost watching a course on Kubernetes. It wasn't because i didn't understand the content of the course, but because it feels like i keep on learning the same thing over and over again without any direction. What do i need to learn to prove to a potential employer that I am skilled in the devops field ?
+
+- I resolved this conflict by listing out things i'd like to give a try out and take a simple app from bare minimum to being deployed on a k8s cluster
+
+- I also continued reading the touch of class book on data structures and I was able to complete my learning on Array. The custom array class i created works well and it has other features such as sorting, reversing etc. These custom methods were implemented by me and it was really a great way to learn how to solve some problems and how the array data structure works under the hood.
+
+- I continued reading the CSD book and started chapter 3 on algorithmic strategies. I learnt about iteration today and i implemented a sorting algorithm to merge two sorted list together in linear time.
