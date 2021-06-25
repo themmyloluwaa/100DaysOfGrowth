@@ -28,3 +28,11 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I also continued reading the touch of class book on data structures and I was able to complete my learning on Array. The custom array class i created works well and it has other features such as sorting, reversing etc. These custom methods were implemented by me and it was really a great way to learn how to solve some problems and how the array data structure works under the hood.
 
 - I continued reading the CSD book and started chapter 3 on algorithmic strategies. I learnt about iteration today and i implemented a sorting algorithm to merge two sorted list together in linear time.
+
+### Day 5
+
+- I started my day with AWS where I learnt how to create instances, setup autoscaling groups based on resource metrics and also started the load balancer aspect. I learnt how to startup an EC2 instance and connect to it. I also learnt about giving services roles to access other AWS services
+
+- I continued my DSA learnings by watching CS dojo's short videos on DSA. About 3 of them. I continued my learning on arrays by solving two leetcode challenges, one hard and one simple. I had previously solved these challenges using Javascript but I rewrote them in python and I saw massive improvement in how I approached the problems.
+
+- Lastly I learnt about linux permissions, users, and how to add user, remove user, modify permission of files etc. I would be refreshing my learnings on this for **day 6** as these are really new concepts.
