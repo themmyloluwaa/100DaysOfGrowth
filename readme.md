@@ -36,3 +36,13 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I continued my DSA learnings by watching CS dojo's short videos on DSA. About 3 of them. I continued my learning on arrays by solving two leetcode challenges, one hard and one simple. I had previously solved these challenges using Javascript but I rewrote them in python and I saw massive improvement in how I approached the problems.
 
 - Lastly I learnt about linux permissions, users, and how to add user, remove user, modify permission of files etc. I would be refreshing my learnings on this for **day 6** as these are really new concepts.
+
+### Day 6
+
+- I started the day by sketching out plans for my portolio. I do think I have a great starting point and I will gradually iterate the sketches and translate them to designs on figma. I will also need to hire an animator and graphic designer and probably also pay for some hosting and domain name.
+
+- I continued my learnings by boostrapping a simple nodejs project which would serve as the foundation forexploring k8s in practice.
+
+- I also continued my DSA learnings by refreshing my understanding of recursion and iteration using the CSD book. I am still working on Arrays and I solved two more problems on leetcode today.
+
+- I watched a talk titled [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY). It was a great talk on how to handle imposter syndrome and getting increasing positivity.
