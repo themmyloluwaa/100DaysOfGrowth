@@ -46,3 +46,5 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I also continued my DSA learnings by refreshing my understanding of recursion and iteration using the CSD book. I am still working on Arrays and I solved two more problems on leetcode today.
 
 - I watched a talk titled [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY). It was a great talk on how to handle imposter syndrome and getting increasing positivity.
+
+- Lastly, I refreshed the linux learnings of yesterday on user management, permissions and learnt something new again.
