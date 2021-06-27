@@ -59,3 +59,5 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I started the day with a walk to the Rheinfall. I believe exercising should be part of an Engineer's fire arms in being world class.
 
 - I continued writing test for the trivia app. For the first time, writing tests in react native gave me an amazing experience. I hope it continues this way.
+
+- Concludeded the day by continuing typescript learning and working on a small project called maps
