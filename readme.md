@@ -48,3 +48,8 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I watched a talk titled [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY). It was a great talk on how to handle imposter syndrome and getting increasing positivity.
 
 - Lastly, I refreshed the linux learnings of yesterday on user management, permissions and learnt something new again.
+
+### Day 7
+
+- Started the day by setting up the testing environment for the Trivia App.
+- Went through Algorithms and practiced 3 leetcode challenges. Found it difficult to understand the 3Sum Closest solution but I will keep cracking at it. I also looked at backtracing algorithm and started to learn about the Heuristic approach to solving problems.
