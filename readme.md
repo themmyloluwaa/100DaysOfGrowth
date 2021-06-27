@@ -53,3 +53,9 @@ This repository contains a report (code, text, images etc) of my summer learning
 
 - Started the day by setting up the testing environment for the Trivia App.
 - Went through Algorithms and practiced 3 leetcode challenges. Found it difficult to understand the 3Sum Closest solution but I will keep cracking at it. I also looked at backtracing algorithm and started to learn about the Heuristic approach to solving problems.
+
+### Day 8
+
+- I started the day with a walk to the Rheinfall. I believe exercising should be part of an Engineer's fire arms in being world class.
+
+- I continued writing test for the trivia app. For the first time, writing tests in react native gave me an amazing experience. I hope it continues this way.
