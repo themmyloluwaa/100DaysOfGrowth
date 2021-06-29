@@ -61,3 +61,11 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I continued writing test for the trivia app. For the first time, writing tests in react native gave me an amazing experience. I hope it continues this way.
 
 - Concludeded the day by continuing typescript learning and working on a small project called maps
+
+
+### Day 9
+- Solved two leetcode challenges on reversing a linked list and also checking if a linked list is a palindrome. 
+- Learnt about packages and processes in linkux 
+- Read the computer science distilled book on data types and structures. I had to skip the strategy chapter because it was too complicated. It's a chapter I would often visit.
+- Finished up the triviaApp and submitted it. I'm scheduled for an interview on Thur.
+
