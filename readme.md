@@ -62,10 +62,14 @@ This repository contains a report (code, text, images etc) of my summer learning
 
 - Concludeded the day by continuing typescript learning and working on a small project called maps
 
-
 ### Day 9
-- Solved two leetcode challenges on reversing a linked list and also checking if a linked list is a palindrome. 
-- Learnt about packages and processes in linkux 
+
+- Solved two leetcode challenges on reversing a linked list and also checking if a linked list is a palindrome.
+- Learnt about packages and processes in linkux
 - Read the computer science distilled book on data types and structures. I had to skip the strategy chapter because it was too complicated. It's a chapter I would often visit.
 - Finished up the triviaApp and submitted it. I'm scheduled for an interview on Thur.
 
+### Day 10
+
+- Built a Quiz Application using React + Typescript to help solidify typescript learnings and to also serve as the project that would be used for the k8s learnings.
+- Continued my DSA learnings by revising some algorithms I had solved in the past. I hope if given these problems, I can remeber how to solve them.
