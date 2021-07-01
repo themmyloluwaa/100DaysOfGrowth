@@ -73,3 +73,9 @@ This repository contains a report (code, text, images etc) of my summer learning
 
 - Built a Quiz Application using React + Typescript to help solidify typescript learnings and to also serve as the project that would be used for the k8s learnings.
 - Continued my DSA learnings by revising some algorithms I had solved in the past. I hope if given these problems, I can remeber how to solve them.
+
+### Day 11
+
+- I continued on my AWS learning path where I learnt about the elastic load balancer, the 3 different types of storage we have in AWS, block store, file storage and object store. I also carried out practical demos on them by starting up different instances and attaching the block and file storage to them.
+- I learnt about dynamic programming and how to apply it to the Knapsack problem. I first learnt about the exponential recursive way to solve it and how to improve it to O(nlogn) time complexity using dynamic programming.
+- Finally I learnt about insertion sort and started learning about merge sort.
