@@ -79,3 +79,9 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I continued on my AWS learning path where I learnt about the elastic load balancer, the 3 different types of storage we have in AWS, block store, file storage and object store. I also carried out practical demos on them by starting up different instances and attaching the block and file storage to them.
 - I learnt about dynamic programming and how to apply it to the Knapsack problem. I first learnt about the exponential recursive way to solve it and how to improve it to O(nlogn) time complexity using dynamic programming.
 - Finally I learnt about insertion sort and started learning about merge sort.
+
+### Day 12
+
+- I continued working on my devops project and I wrote tests and bootstrapped the project so it can be used by other people.
+- I mastered merge sort algorithm today and insertion sort today
+- I started a linux book and i'd try to follow the devops roadmap.
