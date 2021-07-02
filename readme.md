@@ -85,3 +85,10 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I continued working on my devops project and I wrote tests and bootstrapped the project so it can be used by other people.
 - I mastered merge sort algorithm today and insertion sort today
 - I started a linux book and i'd try to follow the devops roadmap.
+
+### Day 13
+
+- Started implementing the devopsified solution for Quizzler app. I successfully packaged it as a docker container and wrote scripts to handle the build
+- I mastered sorting a linked list using merge sort and how to merge a linked list.
+- I started learning about graphs and how to search them using depth first search or breath first search
+- Read chapter 2 and started chapter 3 of linux basics 4 hackers book
