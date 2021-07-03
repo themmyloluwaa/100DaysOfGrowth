@@ -92,3 +92,12 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I mastered sorting a linked list using merge sort and how to merge a linked list.
 - I started learning about graphs and how to search them using depth first search or breath first search
 - Read chapter 2 and started chapter 3 of linux basics 4 hackers book
+
+### Day 14
+
+- I started the day by learning about trees and graph structures and how they are represented.
+- I started on the implementation of the Breadth-first-search algorithm
+- I learnt about AWS database services and also deployed a wordpress application with database on an EC2 instance
+- I learnt about cloudformation service of AWS. I skimmed this section because it was a bit too technical
+- I learnt about bubble sort and how to implement it
+- I didn't finish chapter 3 of LB4H book today but i'd do that tomorrow
