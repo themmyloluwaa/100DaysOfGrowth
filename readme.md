@@ -101,3 +101,8 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I learnt about cloudformation service of AWS. I skimmed this section because it was a bit too technical
 - I learnt about bubble sort and how to implement it
 - I didn't finish chapter 3 of LB4H book today but i'd do that tomorrow
+
+### Day 15
+
+- I started working on my portfolio and successfully sketched out the mobile view in figma. I also reached out to a designer to work on the animated gif.
+- I finished up the linux chapter and rested for the day
