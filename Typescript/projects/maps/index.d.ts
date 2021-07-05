@@ -1,1 +1,1 @@
-declare module "google.maps";
+/// <reference types="@types/google.maps" />
