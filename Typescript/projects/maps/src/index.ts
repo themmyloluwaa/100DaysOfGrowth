@@ -5,4 +5,6 @@ import { User } from "./User";
 const user = new User();
 const company = new Company();
 
-new CustomMap("map");
+const map = new CustomMap("map");
+map.addMarker(user);
+map.addMarker(company);
