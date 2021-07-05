@@ -106,3 +106,10 @@ This repository contains a report (code, text, images etc) of my summer learning
 
 - I started working on my portfolio and successfully sketched out the mobile view in figma. I also reached out to a designer to work on the animated gif.
 - I finished up the linux chapter and rested for the day
+
+### Day 16
+
+- Today was a really good day :). I went for a 1hr 15mins cycle to start my day. FOllowed by completing the typescript maps project i was working on.
+- Next, I learnt about Breadth-First-Search and implemented it in Javascript and Python. Although there's still much to learn and go over here, I was intruiged at the beauty of the concept.
+- Finally, I continued work on my k8s project and implemented CI pipeline using circle ci to run tests and build jobs.
+- I finally completed chapter 4 of the LB4H book to end the day.
