@@ -113,3 +113,9 @@ This repository contains a report (code, text, images etc) of my summer learning
 - Next, I learnt about Breadth-First-Search and implemented it in Javascript and Python. Although there's still much to learn and go over here, I was intruiged at the beauty of the concept.
 - Finally, I continued work on my k8s project and implemented CI pipeline using circle ci to run tests and build jobs.
 - I finally completed chapter 4 of the LB4H book to end the day.
+
+### Day 17
+
+- Today i cycled for 45 mins and started off with AWS services. Specifically elastic bean stalk, Route53, CodeCommit, CodeBuild, Code Pipeline.
+- I later started BFS and attempted two Tree related problems. One in graph and one in binary trees. I struggled a lot today and hads loads of headaches due to the graphs and thinking of it. Graph algorithms are really tough.
+- I then read chapter 5 of the LB4H book.
