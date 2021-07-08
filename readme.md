@@ -119,3 +119,9 @@ This repository contains a report (code, text, images etc) of my summer learning
 - Today i cycled for 45 mins and started off with AWS services. Specifically elastic bean stalk, Route53, CodeCommit, CodeBuild, Code Pipeline.
 - I later started BFS and attempted two Tree related problems. One in graph and one in binary trees. I struggled a lot today and hads loads of headaches due to the graphs and thinking of it. Graph algorithms are really tough.
 - I then read chapter 5 of the LB4H book.
+
+### Day 18
+
+- I cycled for 30mins then started my day with the DevOps project i'm working on. I successfully wrote the k8s deployment files for the Quizzler application and i'd be testing it tomorrow.
+- I revised two sorting algorithms I worked on previously. I will make intentional effort to write down my learnings on paper. This will help me think of the problem more efficiently.
+- Most of my day was spent around configuration and installation on the Kali VM and my host computer.
