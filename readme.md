@@ -125,3 +125,11 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I cycled for 30mins then started my day with the DevOps project i'm working on. I successfully wrote the k8s deployment files for the Quizzler application and i'd be testing it tomorrow.
 - I revised two sorting algorithms I worked on previously. I will make intentional effort to write down my learnings on paper. This will help me think of the problem more efficiently.
 - Most of my day was spent around configuration and installation on the Kali VM and my host computer.
+
+### Day 19
+
+- I cycled for 50 minutes then started my day with revising algorithms. I also solved two algorithms related to arrays. I found it difficult implementing the mountain array question but I finally cracked it.
+- I continued reading the LB4H books and finished up a chapter today.
+- I continued my Devops related project and successfully completed the kustomize file for the deployment
+- I also finished the AWS course I was taking and started reading for the Cloud Practinior Exam.
+- It was a better day today and I am grateful.
