@@ -133,3 +133,9 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I continued my Devops related project and successfully completed the kustomize file for the deployment
 - I also finished the AWS course I was taking and started reading for the Cloud Practinior Exam.
 - It was a better day today and I am grateful.
+
+### Day 20
+
+- I walked for 90 mins today and started my day with revising previous algorithms problems I solved. It was a bit sad because I had forgotten how to solve them but I am happy I had the chance to revise them. I also solved new problems related to the array data structure.
+- I made great progress with my DevOps project and i've gotten to the point of deployment locally with infusing GitOps into the project. Specifically ArgoCD.
+- I finished up chapter 8 of LH4B book and I would be checking some resources that would help bring my portfolio to shape.
