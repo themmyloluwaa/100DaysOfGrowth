@@ -145,3 +145,8 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I solved a linked list related problem
 - Then read LH4B chapter 9
 - Then took a look at some templates for my portfolio. Overall it wasn't a really productive day but I am grateful I had the chance to learn something new.
+
+### Day 22
+
+- I started the day by working on my portfolio design but I got really frustrated and it ruined my entire day. I got some positivity as a designer friend helped me polish the mobile view.
+- I read the LH4B chapter 10 and finished my learning for the day by watching some headless CMS tutorials for the CMS of my portfolio.
