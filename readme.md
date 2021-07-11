@@ -139,3 +139,9 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I walked for 90 mins today and started my day with revising previous algorithms problems I solved. It was a bit sad because I had forgotten how to solve them but I am happy I had the chance to revise them. I also solved new problems related to the array data structure.
 - I made great progress with my DevOps project and i've gotten to the point of deployment locally with infusing GitOps into the project. Specifically ArgoCD.
 - I finished up chapter 8 of LH4B book and I would be checking some resources that would help bring my portfolio to shape.
+
+### Day 21
+
+- I solved a linked list related problem
+- Then read LH4B chapter 9
+- Then took a look at some templates for my portfolio. Overall it wasn't a really productive day but I am grateful I had the chance to learn something new.
