@@ -156,3 +156,9 @@ This repository contains a report (code, text, images etc) of my summer learning
 - started off the day with a 3 hour pair programming session with @wolemercy . We dived through the world of linked list and slow/fast pointer approach for array problems. A lot of oh shit and aha moments.
 - continued with the #Kubernetes & DevOps project
 - started chapter 11 of the Linux Hacking for Beginners book.
+
+### Day 24
+
+- I solved two DSA problems. One involved using dynamic programming and brute force to find the length of common subsequence between two strings. The second problem involved tweaking binary search to search for start and end indices of a target element.
+- I created a production ready k8s cluster using eksctl and deployed the ArgoCD resources on it. Got stuck when I tried to deploy the kustomized managed Quizzler application.
+- Wrapped up chapter 11 and started chapter 12 of the LH4B course.
