@@ -150,3 +150,9 @@ This repository contains a report (code, text, images etc) of my summer learning
 
 - I started the day by working on my portfolio design but I got really frustrated and it ruined my entire day. I got some positivity as a designer friend helped me polish the mobile view.
 - I read the LH4B chapter 10 and finished my learning for the day by watching some headless CMS tutorials for the CMS of my portfolio.
+
+### Day 23
+
+- started off the day with a 3 hour pair programming session with @wolemercy . We dived through the world of linked list and slow/fast pointer approach for array problems. A lot of oh shit and aha moments.
+- continued with the #Kubernetes & DevOps project
+- started chapter 11 of the Linux Hacking for Beginners book.
