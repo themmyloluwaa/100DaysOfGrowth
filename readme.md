@@ -162,3 +162,9 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I solved two DSA problems. One involved using dynamic programming and brute force to find the length of common subsequence between two strings. The second problem involved tweaking binary search to search for start and end indices of a target element.
 - I created a production ready k8s cluster using eksctl and deployed the ArgoCD resources on it. Got stuck when I tried to deploy the kustomized managed Quizzler application.
 - Wrapped up chapter 11 and started chapter 12 of the LH4B course.
+
+### Day 25
+
+- I learnt about backtracing, depth first search and I took the first step in solving the N queen problem.
+- I got closer to completing my k8s project, got stuck with deploying the ArgoCD resources on a new EKS cluster but I would figure the solution soon.
+- Finished up chapter 12 of LH4B book and worked on the desktop design of my portolio.
