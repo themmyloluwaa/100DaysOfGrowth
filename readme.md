@@ -168,3 +168,10 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I learnt about backtracing, depth first search and I took the first step in solving the N queen problem.
 - I got closer to completing my k8s project, got stuck with deploying the ArgoCD resources on a new EKS cluster but I would figure the solution soon.
 - Finished up chapter 12 of LH4B book and worked on the desktop design of my portolio.
+
+### Day 26
+
+- I solved the clone graph leetcode problem using depth first search and studied more on backtracking and it's application for the N queen problem
+- I deployed the Quizzler application and finished up the project
+- I finished chapter 13 of the LH4B book and finished up the desktop design of my portfolio.
+- I also watched some tutorials on framer motion.
