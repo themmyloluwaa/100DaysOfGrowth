@@ -175,3 +175,9 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I deployed the Quizzler application and finished up the project
 - I finished chapter 13 of the LH4B book and finished up the desktop design of my portfolio.
 - I also watched some tutorials on framer motion.
+
+### Day 27
+
+- I solved the N queen problem on leetcode and the add two linked list problem on leetcode. It was really fun and challenging figuring out how to solve the N queen problem in an optimized way.
+- I read chapter 14 and 15 of LH4B
+- I started the next project I'm working on
