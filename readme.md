@@ -181,3 +181,8 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I solved the N queen problem on leetcode and the add two linked list problem on leetcode. It was really fun and challenging figuring out how to solve the N queen problem in an optimized way.
 - I read chapter 14 and 15 of LH4B
 - I started the next project I'm working on
+
+### Day 28
+
+- I had my first dose of the vaccine today so I wasn't able to do much but I worked on my linkedin profile, applied to a few jobs.
+- I also read up on the various ways of aggregating data in a microservice architecture sytle that uses the DB per service pattern. Again, there's always a trade off with every decision made in software engineering and what I could pick from these solutions is they all have their advantage and disadvantages, you chose your demon and you manage it.
