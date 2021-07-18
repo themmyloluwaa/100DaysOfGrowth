@@ -186,3 +186,9 @@ This repository contains a report (code, text, images etc) of my summer learning
 
 - I had my first dose of the vaccine today so I wasn't able to do much but I worked on my linkedin profile, applied to a few jobs.
 - I also read up on the various ways of aggregating data in a microservice architecture sytle that uses the DB per service pattern. Again, there's always a trade off with every decision made in software engineering and what I could pick from these solutions is they all have their advantage and disadvantages, you chose your demon and you manage it.
+
+### Day 29
+
+- I created an organization, project, team and repository on github for the microservice project i'm starting with 3 other colleagues.
+- I built a hulu clone using nextjs, tailwindcss and deployed to vercel. The goal of this project was to play with nextjs and tailwindcss. Find it here [Hulu](https://hulu-theta-murex.vercel.app/)
+- I rested :)
