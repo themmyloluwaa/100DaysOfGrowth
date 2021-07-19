@@ -192,3 +192,13 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I created an organization, project, team and repository on github for the microservice project i'm starting with 3 other colleagues.
 - I built a hulu clone using nextjs, tailwindcss and deployed to vercel. The goal of this project was to play with nextjs and tailwindcss. Find it here [Hulu](https://hulu-theta-murex.vercel.app/)
 - I rested :)
+
+### Day 30
+
+- I solved 3 algorithm questions and learnt that the time complexity of your algorithms is influenced by the choice of data structures and the operation on the inputs in the data structures.
+
+- I finished up the linux basics for hackers book and learnt so much about the linux kernel, working with the terminal and even some scripting using python and bash
+
+- I continued learning about #kubernetes and learnt about the steps involved in setting up a high availability cluster on nodes. I have to say, the work these cloud providers do with helping you setup a control plane is underappreciated.
+
+- I also learnt about node draining in kubernetes
