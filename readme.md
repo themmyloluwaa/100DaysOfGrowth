@@ -202,3 +202,10 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I continued learning about #kubernetes and learnt about the steps involved in setting up a high availability cluster on nodes. I have to say, the work these cloud providers do with helping you setup a control plane is underappreciated.
 
 - I also learnt about node draining in kubernetes
+
+### Day 31
+
+- I started a 6 hour course of graph theory and learnt about various types of graphs and common problems associated with them. I finally understood depth first search and used it to solve find connected components and visit all nodes problem.
+- I learnt about #kubernetes role based access control and created roles, role bindings, clusterrole and clusterrole binding.
+- I learnt about service account and created one too and I finally understood how various clusters can be accessed from one single user's system.
+- I polished my CV after a harsh but much needed feedback.
