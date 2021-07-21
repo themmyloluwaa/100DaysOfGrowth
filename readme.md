@@ -209,3 +209,11 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I learnt about #kubernetes role based access control and created roles, role bindings, clusterrole and clusterrole binding.
 - I learnt about service account and created one too and I finally understood how various clusters can be accessed from one single user's system.
 - I polished my CV after a harsh but much needed feedback.
+
+### Day 32
+
+- I solved two problems on leetcode. The word ladder problem where I applied breadth-first-search and the majority element problem.
+- The majority element problem led me to the Boyer–Moore algorithm which is used for pattern searching. I would be diving deeper into this tomorrow
+- I read chapter 3, 4, 5, 6 of the automate the boring stuff with python book. Great book and it's a great way to pick up from the basics of python scripting i read in the linux hacking for beginners book
+- I setup the airbnb style guide for the project I'm working on with two other developers. I also added a contribution guide section to guide future contributions to the project.
+- I started the networking series recommended by madebygps in her self-taught-guide-to-cloud-computing repository.
