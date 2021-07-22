@@ -217,3 +217,10 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I read chapter 3, 4, 5, 6 of the automate the boring stuff with python book. Great book and it's a great way to pick up from the basics of python scripting i read in the linux hacking for beginners book
 - I setup the airbnb style guide for the project I'm working on with two other developers. I also added a contribution guide section to guide future contributions to the project.
 - I started the networking series recommended by madebygps in her self-taught-guide-to-cloud-computing repository.
+
+### Day 33
+
+- I revised few algorithms I had solved and went over the word ladder problem on leetcode to fully grasp the beauty of the BFS used.
+- I continued the graph theory course on freecodecamp and learnt how bfs can be used to find the shortest path to a node. I saw the beauty of the reconstructPath algorithm and also an entirely new sequence of updating the iterator in a loop.
+- I got a whole education on CSS by reading @bchiang7 codebase and Josh Comeau's blog. I also refreshed my SaSS knowledge. Gotta bring my fire styling skills as I'm the lead on this UI project.
+- Lastly, I learnt about k8s resource request, limit and health check methods (live, readiness, startup) probes.
