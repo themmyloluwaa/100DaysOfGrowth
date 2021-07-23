@@ -224,3 +224,11 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I continued the graph theory course on freecodecamp and learnt how bfs can be used to find the shortest path to a node. I saw the beauty of the reconstructPath algorithm and also an entirely new sequence of updating the iterator in a loop.
 - I got a whole education on CSS by reading @bchiang7 codebase and Josh Comeau's blog. I also refreshed my SaSS knowledge. Gotta bring my fire styling skills as I'm the lead on this UI project.
 - Lastly, I learnt about k8s resource request, limit and health check methods (live, readiness, startup) probes.
+
+### Day 34
+
+- @wolemercy and i had our pair programming session today where we learnt the Boyer-Moore's pattern searching algorithm and the majority voting algorithm. My biggest lesson from this learning journey has been the réalisation that every line of code we engineer's has weight; the beautiful algorithms that power's our rapidly growing habitat is born from a thoughtful and deliberate process and it's really beautiful to experience.
+
+- i continued learning about networking fundamentals and how the things that work on the internet work. From protocols to networking devices, and so on. Good stuffs 🎇
+- i learnt storybook and how it helps in building a design system.
+- lastly, today I got reminded that learning in this amazing field is a recursive process with no base case. The deeper you go, the deeper you need to go. Amazing stuffs ☀️
