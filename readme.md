@@ -232,3 +232,8 @@ This repository contains a report (code, text, images etc) of my summer learning
 - i continued learning about networking fundamentals and how the things that work on the internet work. From protocols to networking devices, and so on. Good stuffs 🎇
 - i learnt storybook and how it helps in building a design system.
 - lastly, today I got reminded that learning in this amazing field is a recursive process with no base case. The deeper you go, the deeper you need to go. Amazing stuffs ☀️
+
+### Day 35
+
+- I took a big break today but I was able to successfully setup storybook in the web application for building and managing components.
+- Lastly, I had fun and rested well today.
