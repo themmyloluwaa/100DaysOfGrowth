@@ -237,3 +237,10 @@ This repository contains a report (code, text, images etc) of my summer learning
 
 - I took a big break today but I was able to successfully setup storybook in the web application for building and managing components.
 - Lastly, I had fun and rested well today.
+
+### Day 36
+
+- I solved the remove duplicate in sorted array 2 and learnt how to apply the Boyer-moore's voting algorithm to problems involving a guaranteed/not-guaranteed majority element.
+- I started reading on the popular knight tour's problem and would continue from this tomorrow.
+- I completed the landing page, login page and sign up page for the porfolio project i'm working on.
+- Made a big decision regarding my career today, hoping it bears positive fruits in the future.
