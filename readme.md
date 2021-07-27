@@ -251,3 +251,10 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I implemented the forgot password page and completed the previous pages I started working on yesterday.
 - Today I learnt about initContainers and how to setup multi containers in a pod.
 - I repeated chapter 6 of the automate the boring stuff book and implemented the projects contained there in.
+
+### Day 38
+
+- I revised some of the algorithms I learnt this past week and learnt about how to use breadth-first-search to solve the find exit in a dungeon problem. I still haven't completely gotten this and i'd need more study to fully grasp it.
+- I read chapter 7 of the automate the boring stuff book where I learnt how to work with regular expression in python using the re module. Al makes regex look so attractive and it was fun reading this chapter. I still don't know how some engineers have all the snytax offhand. Amazing people.
+- I learnt about static and mirror pods in k8s, finally understood the role of daemonsets and how they work. Learnt a lot about pod scheduling on worker nodes in the cluster using nodeSelector, node affinity and anti affinity.
+- Made some progress on the post page of the web application i'm working on. Frontend is hard, really really hard! phew.
