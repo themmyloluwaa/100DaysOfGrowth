@@ -244,3 +244,10 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I started reading on the popular knight tour's problem and would continue from this tomorrow.
 - I completed the landing page, login page and sign up page for the porfolio project i'm working on.
 - Made a big decision regarding my career today, hoping it bears positive fruits in the future.
+
+### Day 37
+
+- I solved the knight tour problem using backtracing. It's a great feeling to fully identify the concepts and ingredients needed in solving a problem.
+- I implemented the forgot password page and completed the previous pages I started working on yesterday.
+- Today I learnt about initContainers and how to setup multi containers in a pod.
+- I repeated chapter 6 of the automate the boring stuff book and implemented the projects contained there in.
