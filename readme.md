@@ -258,3 +258,11 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I read chapter 7 of the automate the boring stuff book where I learnt how to work with regular expression in python using the re module. Al makes regex look so attractive and it was fun reading this chapter. I still don't know how some engineers have all the snytax offhand. Amazing people.
 - I learnt about static and mirror pods in k8s, finally understood the role of daemonsets and how they work. Learnt a lot about pod scheduling on worker nodes in the cluster using nodeSelector, node affinity and anti affinity.
 - Made some progress on the post page of the web application i'm working on. Frontend is hard, really really hard! phew.
+
+### Day 39
+
+- I solved the house robber 2 problem. I was able to break down the problem and identiy the pattern that made it inherently different from the house robber 1 problem. Doing this made it easy to solve the major problem.
+- I finally understood how to solve the find the shortest path in a 2D dungeon thanks to the pair programming session with @wolemercy.
+- I learnt about hashmap data structure and the underlying data structure. How the hash can be calculated and how to resolve collision. I would be revising this tomorrow.
+- Today in my #kubernetes study, I learnt about ReplicaController, ReplicaSet and Deployment and how they are different and which to use when to use them. I also learnt about scaling and practiced horizontal scaling and vertical scaling. The next step would be to learn how to automate this. I also learnt about the record feature of each deployment in #kubernetes.
+- Finally, I set up the web app project with cypress.io for testing. I love writing tests just as much as I love building.
