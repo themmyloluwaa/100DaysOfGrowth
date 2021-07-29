@@ -266,3 +266,10 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I learnt about hashmap data structure and the underlying data structure. How the hash can be calculated and how to resolve collision. I would be revising this tomorrow.
 - Today in my #kubernetes study, I learnt about ReplicaController, ReplicaSet and Deployment and how they are different and which to use when to use them. I also learnt about scaling and practiced horizontal scaling and vertical scaling. The next step would be to learn how to automate this. I also learnt about the record feature of each deployment in #kubernetes.
 - Finally, I set up the web app project with cypress.io for testing. I love writing tests just as much as I love building.
+
+### Day 40
+
+- I read up on the knapsack problem and finally understood the dynamic programming approach to solving it. I revised the check if a number is a palindrome without converting it to strings.
+- I started chapter 8 of automate the boring stuff book and learnt how to read and write files using the open python method. I also gained some knowledge working with the os and path modules.
+- I learnt about kubernetes networking, kubernetes network plugins, the k8s networking model.
+- I started writing test for the landing page, signin, register and forgot password page.
