@@ -273,3 +273,10 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I started chapter 8 of automate the boring stuff book and learnt how to read and write files using the open python method. I also gained some knowledge working with the os and path modules.
 - I learnt about kubernetes networking, kubernetes network plugins, the k8s networking model.
 - I started writing test for the landing page, signin, register and forgot password page.
+
+### Day 41
+
+- I revised the longest common sequence problem on leetcode and learnt about Kadane's algorithm for solving the maximum sub array problem. Again, the world is full of intelligent people, woosh.
+- I finished chapter 8 of the automate the boring stuff book, it is a chapter filled with so many new concepts new to me in python and it really shows why python is the goto language for automation.
+- I learnt about k8s service types and ingress controller. Still a lot to learn and revise.
+- I restructured the layout for the frontend application. Still a lot that needs to be done but it's good progress.
