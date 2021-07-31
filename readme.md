@@ -280,3 +280,9 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I finished chapter 8 of the automate the boring stuff book, it is a chapter filled with so many new concepts new to me in python and it really shows why python is the goto language for automation.
 - I learnt about k8s service types and ingress controller. Still a lot to learn and revise.
 - I restructured the layout for the frontend application. Still a lot that needs to be done but it's good progress.
+
+### Day 42
+
+- I finished chapter 9 of automate the boring stuff with python book where i learnt about how to copy, rename, move, and delete, zip directories using the os, send2trash, zipfile modules.
+- I also learnt about kubernetes Volume, PersistentVolume PersistentVolumeClaim and StorageClass. Today, the emptyDir volume mount type also finally made sense in the specification.
+- I finished the mobile and desktop navigation bar for the UI of the microservice i'm building.
