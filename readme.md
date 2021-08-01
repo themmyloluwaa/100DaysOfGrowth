@@ -286,3 +286,8 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I finished chapter 9 of automate the boring stuff with python book where i learnt about how to copy, rename, move, and delete, zip directories using the os, send2trash, zipfile modules.
 - I also learnt about kubernetes Volume, PersistentVolume PersistentVolumeClaim and StorageClass. Today, the emptyDir volume mount type also finally made sense in the specification.
 - I finished the mobile and desktop navigation bar for the UI of the microservice i'm building.
+
+### Day 43
+
+- Today was my rest day and I wrote end to end test using cypress.io for four pages to model how users would use the UI service. I tested for form filling, text elements containing the correct text content, navigation, button event handling, etc.
+- Tomorrow, I would start off with solving the dungeon problem using BFS and arm myself with the knowledge of topological sort.
