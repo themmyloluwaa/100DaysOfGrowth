@@ -291,3 +291,11 @@ This repository contains a report (code, text, images etc) of my summer learning
 
 - Today was my rest day and I wrote end to end test using cypress.io for four pages to model how users would use the UI service. I tested for form filling, text elements containing the correct text content, navigation, button event handling, etc.
 - Tomorrow, I would start off with solving the dungeon problem using BFS and arm myself with the knowledge of topological sort.
+
+
+### Day 44
+- Today, I learnt about the requests and webbrowser module in python. I also learnt about the logging module and the various log levels and how python handles them. 
+- Today, I worked on two variations of the dungeon problem. One to find the shortest path in the dungeon leading to an exit and secondly to reconstruct the paths taken to the exit. The reconstruct path algorithm is a beautiful piece of engineering art by the way, really beautiful.
+- I also solved the find the least common ancestor problem on leetcode. Another beautiful problem where BFS really shines.
+- I setup a CI pipeline using github actions to automate the testing and code formating of the UI project i'm engaged on. 
+
