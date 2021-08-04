@@ -304,3 +304,9 @@ This repository contains a report (code, text, images etc) of my summer learning
 - Today i learnt about Topological sort and it's many applications in computer science such as course scheduling, project dependency compilation. I studied Khan's algorithm for obtaining a topological sort and also the DFS approach for obtaining a topological sort. My head felt really fuzzy reading these algorithms, would definitely take a lot of retries to fully grasp.
 - I learnt about Helm and Helm chart, how to package kubernetes resource manifests into helm charts that can be redistributed and shared.
 - I completed the post page UI for the UI service i'm engaged in.
+
+### Day 46
+
+- I revised the topological sort algorithm and also learnt about using khan's algorithm to obtain a topological sort and to also obtain a topological order.
+- I solved the course schedule problem on leetcode. This problem involves checking if a graph has a cycle. I first solved it using khan's algorithm but I had to use dfs because Khan's algorithm didn't pass for all edge cases.
+- I learnt about isito service mesh and how it helps make communication between the microservices in the cluster easily. I also learnt about how it can enable you do canary deployment, and many other features it enables you to do.
