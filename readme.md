@@ -312,6 +312,14 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I learnt about isito service mesh and how it helps make communication between the microservices in the cluster easily. I also learnt about how it can enable you do canary deployment, and many other features it enables you to do.
 
 ### Day 47
+
 - Today I revised the Khan's algorithm for topological sort and also took the first step in understanding Dijkstra's algorithm for finding the shortest distance from a source. Learning this algorithm made me rethink life a bit, I mean will we take all this to the grave? because ehn...
 - I continued working on the UI for the project I'm working on. I was able to implement file upload with cloudinary and filepond (I should write a blog post about this). I also containerised the UI service.
-- I continued reading the chapter on web scrapping for automate the boring stuff book. 
+- I continued reading the chapter on web scrapping for automate the boring stuff book.
+
+### Day 48
+
+- Today i continued my studies on Dijkstra's's algorithm for computing the single shortest path on a positive weighted directed acyclic graph.
+- I also learned about another algorithm that can be used to find the single shortest path and longest path in a positive or negative weighted directed acyclic graph.
+- I attempted the knight probability problem on leetcode but I couldn't solve it today. Tomorrow we go again.
+- I worked on some components for the UI of the web application on.
