@@ -323,3 +323,10 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I also learned about another algorithm that can be used to find the single shortest path and longest path in a positive or negative weighted directed acyclic graph.
 - I attempted the knight probability problem on leetcode but I couldn't solve it today. Tomorrow we go again.
 - I worked on some components for the UI of the web application on.
+
+### Day 49
+
+- Today, I learned how to work with spreadsheets in python using the oopenpyxl module.
+- I read about multithreading, concurrency, livelock, deadlocks. These are concepts I need to revise because they are unfamiliar.
+- I added a destroy and modal component to the UI project I've been on.
+- I made further research on the knight probability problem and I really do think i'm close to figuring out the solution.
