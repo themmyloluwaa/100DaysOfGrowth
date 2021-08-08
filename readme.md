@@ -330,3 +330,9 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I read about multithreading, concurrency, livelock, deadlocks. These are concepts I need to revise because they are unfamiliar.
 - I added a destroy and modal component to the UI project I've been on.
 - I made further research on the knight probability problem and I really do think i'm close to figuring out the solution.
+
+### Day 50
+
+- I learnt about the json, pyyaml, hashlib and cryptography packages available in python for working with json, yaml files and for encrypting and decrypting data.
+- I implemented reset-password page, update password modal, user post list page and fixed some e2e tests that were failing. Again, please always write tests for your codebase.
+- I containerised a nextjs application today but I doubt i'd be using this for production as I can't get the image size to go below 900Mb.
