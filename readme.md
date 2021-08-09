@@ -336,3 +336,9 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I learnt about the json, pyyaml, hashlib and cryptography packages available in python for working with json, yaml files and for encrypting and decrypting data.
 - I implemented reset-password page, update password modal, user post list page and fixed some e2e tests that were failing. Again, please always write tests for your codebase.
 - I containerised a nextjs application today but I doubt i'd be using this for production as I can't get the image size to go below 900Mb.
+
+### Day 51
+
+- I learned about the indexed priority queue. This is a very beautiful data structure with time complexity for most operations to be O(log(n)) and O(1)
+- I learned about the PyPDF2 and python-docx module for working with pdf and docx binary files in python.
+- I created three components today and read implemented gallery page for the UI project.
