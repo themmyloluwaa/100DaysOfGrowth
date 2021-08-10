@@ -342,3 +342,10 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I learned about the indexed priority queue. This is a very beautiful data structure with time complexity for most operations to be O(log(n)) and O(1)
 - I learned about the PyPDF2 and python-docx module for working with pdf and docx binary files in python.
 - I created three components today and read implemented gallery page for the UI project.
+
+### Day 52
+
+- Today I solved three linked list problems on leetcode and revised the Dijkstra's shortest path algorithm.
+- I continued my research on authentication in NextJS.
+- I implemented the functionality for users to upload images to the gallery created.
+- I applied to a few jobs.
