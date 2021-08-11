@@ -349,3 +349,10 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I continued my research on authentication in NextJS.
 - I implemented the functionality for users to upload images to the gallery created.
 - I applied to a few jobs.
+
+### Day 53
+
+- Today I learned about the sliding window approach in solving some algorithm problems and I also solved the remove Nth node from the tail of a linked-list problem on leetcode.
+- I continued studying about conflict free replicated data types
+- I read chapter 14 of automate the boring stuff book in python.
+- Today, we took the first steps in connecting the UI i've built with the post backend service.
