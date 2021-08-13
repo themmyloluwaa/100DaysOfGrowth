@@ -358,5 +358,13 @@ This repository contains a report (code, text, images etc) of my summer learning
 - Today, we took the first steps in connecting the UI i've built with the post backend service.
 
 ### Day 54
+
 - I finished the video I was watching on conflict free replicated data types where I learned about new concepts like operational transformation and LSEQ data type to name a few.
 - I spent my day reading the react-query documentation and started the integration of the backend APIs with the frontend.
+
+### Day 55
+
+- I got my 2nd vaccine dose which affected my efficiency today but I still managed to solve the double on match algorithm problem.
+- I connected the post UI and comment UI with the backend API.
+- I read a little bit on double linked list.
+- I learnt about the threading, time and datetime modules in python
