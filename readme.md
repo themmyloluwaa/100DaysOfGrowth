@@ -356,3 +356,7 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I continued studying about conflict free replicated data types
 - I read chapter 14 of automate the boring stuff book in python.
 - Today, we took the first steps in connecting the UI i've built with the post backend service.
+
+### Day 54
+- I finished the video I was watching on conflict free replicated data types where I learned about new concepts like operational transformation and LSEQ data type to name a few.
+- I spent my day reading the react-query documentation and started the integration of the backend APIs with the frontend.
