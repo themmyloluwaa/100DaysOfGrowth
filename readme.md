@@ -368,3 +368,8 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I connected the post UI and comment UI with the backend API.
 - I read a little bit on double linked list.
 - I learnt about the threading, time and datetime modules in python
+
+### Day 56
+
+- I spent most of today recovering from the second dose of the vaccine but I managed to read more about python's Popen module. The more I know #python, the more I fall inlove with it. It's incredible to sheer amount of things you can do in python.
+- I continued connecting the UI component with the backend services.
