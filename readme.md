@@ -373,3 +373,9 @@ This repository contains a report (code, text, images etc) of my summer learning
 
 - I spent most of today recovering from the second dose of the vaccine but I managed to read more about python's Popen module. The more I know #python, the more I fall inlove with it. It's incredible to sheer amount of things you can do in python.
 - I continued connecting the UI component with the backend services.
+
+### Day 57
+
+- Today, i learnt about the generator class in python. I also learnt about the any and all methods and the zip_length method of itertools. The more i learnt about python, the deeper the love for the language grows.
+- Today i solved one leetcode problem and revised some regex
+- Today i learnt about infinite queries and then pagination approach of react-query
