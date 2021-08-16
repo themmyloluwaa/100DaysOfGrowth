@@ -379,3 +379,9 @@ This repository contains a report (code, text, images etc) of my summer learning
 - Today, i learnt about the generator class in python. I also learnt about the any and all methods and the zip_length method of itertools. The more i learnt about python, the deeper the love for the language grows.
 - Today i solved one leetcode problem and revised some regex
 - Today i learnt about infinite queries and then pagination approach of react-query
+
+
+### Day 58
+- Today, I started the implementation of the min indexed priority queue.
+- I learnt about generator function in javascript and also read some articles related to Javascript errors.
+- I implemented update functionality for the web application i've been working on. 
