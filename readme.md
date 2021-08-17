@@ -380,8 +380,14 @@ This repository contains a report (code, text, images etc) of my summer learning
 - Today i solved one leetcode problem and revised some regex
 - Today i learnt about infinite queries and then pagination approach of react-query
 
-
 ### Day 58
+
 - Today, I started the implementation of the min indexed priority queue.
 - I learnt about generator function in javascript and also read some articles related to Javascript errors.
-- I implemented update functionality for the web application i've been working on. 
+- I implemented update functionality for the web application i've been working on.
+
+### Day 59
+
+- Today, I solved the word search problem on leetcode using DFS. This problem helped me identify the growth that has occured in my approach to solving problems.
+- Today I learned about the SMTP and IMAP modules in python.
+- Today I made good progress with the comment, post CRUD functionality.
