@@ -391,3 +391,9 @@ This repository contains a report (code, text, images etc) of my summer learning
 - Today, I solved the word search problem on leetcode using DFS. This problem helped me identify the growth that has occured in my approach to solving problems.
 - Today I learned about the SMTP and IMAP modules in python.
 - Today I made good progress with the comment, post CRUD functionality.
+
+# Day 60
+
+- Today, I attempted 3 algorithm challenges.
+- I learned about how to work with the pygui module and the pillow module.
+- I made progress on the web application project i've been working on.
