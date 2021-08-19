@@ -397,3 +397,9 @@ This repository contains a report (code, text, images etc) of my summer learning
 - Today, I attempted 3 algorithm challenges.
 - I learned about how to work with the pygui module and the pillow module.
 - I made progress on the web application project i've been working on.
+
+### Day 61
+
+- Today, I solved the check if words are Anagram problem, find disappearing numbers in an array, minimum distance pair problem and find single number problem on leetcode.
+- I witnessed magic today, bitwise manipulation is magic!
+- I made progress with the web application service I'm working on.
