@@ -403,3 +403,8 @@ This repository contains a report (code, text, images etc) of my summer learning
 - Today, I solved the check if words are Anagram problem, find disappearing numbers in an array, minimum distance pair problem and find single number problem on leetcode.
 - I witnessed magic today, bitwise manipulation is magic!
 - I made progress with the web application service I'm working on.
+
+### Day 62
+
+- Today I read some articles and started out a plan for the next four months.
+- I completed CRUD functionality for a user interact with post on the web application.
