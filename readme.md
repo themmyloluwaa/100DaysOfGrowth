@@ -408,3 +408,9 @@ This repository contains a report (code, text, images etc) of my summer learning
 
 - Today I read some articles and started out a plan for the next four months.
 - I completed CRUD functionality for a user interact with post on the web application.
+
+### Day 63
+
+- I implemented CRUD functionality for a user to interact with gallery data on the web platform
+- I worked on my CV and updated my profile on the job boards I'm signed up on.
+- Most importanty, I rested.
