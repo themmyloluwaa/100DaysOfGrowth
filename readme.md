@@ -414,3 +414,9 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I implemented CRUD functionality for a user to interact with gallery data on the web platform
 - I worked on my CV and updated my profile on the job boards I'm signed up on.
 - Most importanty, I rested.
+
+### Day 64
+
+- Today, I focused on writing a guest post on content sharing in react native powered apps.
+- I applied to a few jobs
+- I Started a networking udacity course to learn more about computer networking.
