@@ -420,3 +420,10 @@ This repository contains a report (code, text, images etc) of my summer learning
 - Today, I focused on writing a guest post on content sharing in react native powered apps.
 - I applied to a few jobs
 - I Started a networking udacity course to learn more about computer networking.
+
+### Day 65
+
+- Today, I solved reaching point problem, flatten a multilevel double linked list and how many games problem on leetcode and hackerrank.
+- I started my preparation for k8s certification with KodeKloud's k8s for beginners course.
+- I finished gallery CRUD functionality for the web application.
+- I learned about concurrency and multithreading in python.
