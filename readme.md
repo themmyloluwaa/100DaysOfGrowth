@@ -427,3 +427,9 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I started my preparation for k8s certification with KodeKloud's k8s for beginners course.
 - I finished gallery CRUD functionality for the web application.
 - I learned about concurrency and multithreading in python.
+
+### Day 66
+
+- Today, I solved the two leetcode problems and revised some concepts related to previous problems solved such as Maximum subarray, best time to buy stock problem.
+- Today I finished the k8s for absolute beginners course on KodeKloud
+- I revised my notes on concurrency, multithreading and learned about concurrency in python using the threading module.
