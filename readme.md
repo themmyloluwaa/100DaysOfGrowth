@@ -433,3 +433,9 @@ This repository contains a report (code, text, images etc) of my summer learning
 - Today, I solved the two leetcode problems and revised some concepts related to previous problems solved such as Maximum subarray, best time to buy stock problem.
 - Today I finished the k8s for absolute beginners course on KodeKloud
 - I revised my notes on concurrency, multithreading and learned about concurrency in python using the threading module.
+
+### Day 67
+
+- Today I solved two problems on leetcode and made research on how to make my DSA learnings better.
+- Today I learned about multiprocessing, multithreading and the futuress package in python. I also learned about mapreduce.
+- Today, I refreshed some concepts on k8s I learnt in the past.
