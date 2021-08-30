@@ -439,3 +439,11 @@ This repository contains a report (code, text, images etc) of my summer learning
 - Today I solved two problems on leetcode and made research on how to make my DSA learnings better.
 - Today I learned about multiprocessing, multithreading and the futuress package in python. I also learned about mapreduce.
 - Today, I refreshed some concepts on k8s I learnt in the past.
+
+### Day 68, 69, 70, 71
+
+- Today marks the end of a much needed 3 days summer break and I visited the beauty city of Hannover in Germany.
+- While on my break, I continued reading the python for devops book
+- Revised the algorithms I have learnt in the past
+- I read on how network stubbing works in cypress.io
+- Continued developing the web application and I've successfully implemented role based access control (RBAC) into some of the pages in the application.
