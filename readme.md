@@ -447,3 +447,10 @@ This repository contains a report (code, text, images etc) of my summer learning
 - Revised the algorithms I have learnt in the past
 - I read on how network stubbing works in cypress.io
 - Continued developing the web application and I've successfully implemented role based access control (RBAC) into some of the pages in the application.
+
+### Day 72
+
+- I started my day revising algorithms and problems I have encountered before
+- I continued my k8s learning and today I learnt about ResourceQuota object used to limit resources in a namespace
+- I learnt about the sharp package used in nodejs for image manipulation. Working on something.
+- Today, I continued to build the web platform, edging closer to launch date and hopefully, we can meet up.
