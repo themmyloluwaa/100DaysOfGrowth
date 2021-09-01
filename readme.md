@@ -454,3 +454,9 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I continued my k8s learning and today I learnt about ResourceQuota object used to limit resources in a namespace
 - I learnt about the sharp package used in nodejs for image manipulation. Working on something.
 - Today, I continued to build the web platform, edging closer to launch date and hopefully, we can meet up.
+
+### Day 73
+
+- I solved the letter permutation problem on leetcode
+- I learned about logging in nodejs using wintston logger. There's still a whole lot to learn.
+- I implemented logout and update user functionality on the web application service.
