@@ -466,3 +466,10 @@ This repository contains a report (code, text, images etc) of my summer learning
 - Today, I solved three problems on leetcode.
 - Today, I made research on how to generate preview for videos in nodejs
 - I implemented refresh token and access token in the application, but I still need to test and ensure everything works fine.
+
+### Day 75
+
+- Today was not the best of days considering some bad news I got but I didn't let that affect my learning.
+- I solved the subset problem on leetcode
+- I did a few reading and tested the web application service.
+- I implemented refresh and access token refetch on the project. Hoping I can round this up as soon as possible.
