@@ -460,3 +460,9 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I solved the letter permutation problem on leetcode
 - I learned about logging in nodejs using wintston logger. There's still a whole lot to learn.
 - I implemented logout and update user functionality on the web application service.
+
+### Day 74
+
+- Today, I solved three problems on leetcode.
+- Today, I made research on how to generate preview for videos in nodejs
+- I implemented refresh token and access token in the application, but I still need to test and ensure everything works fine.
