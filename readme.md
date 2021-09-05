@@ -473,3 +473,12 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I solved the subset problem on leetcode
 - I did a few reading and tested the web application service.
 - I implemented refresh and access token refetch on the project. Hoping I can round this up as soon as possible.
+
+### Day 76 and 77
+
+- I finished the draft for the post on using react native share package.
+- I solved the combination sum problem and applied backtracking to come up with a solution. Next step would be to optimize it using memoization.
+- I also solved the find peak index in a mountain array and find if array is a valid mountain problem on leetcode.
+- Practiced manual scheduling pods and selecting resources using labels in a k8 cluster.
+- I setup nginx proxy to serve as the API gateway for the micro service application I've been building with a group of friends.
+- @wolemercy and I discussed some system design concepts and looked at how one might design a url shortner service.
