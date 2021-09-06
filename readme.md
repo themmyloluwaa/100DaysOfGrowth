@@ -482,3 +482,10 @@ This repository contains a report (code, text, images etc) of my summer learning
 - Practiced manual scheduling pods and selecting resources using labels in a k8 cluster.
 - I setup nginx proxy to serve as the API gateway for the micro service application I've been building with a group of friends.
 - @wolemercy and I discussed some system design concepts and looked at how one might design a url shortner service.
+
+### Day 78
+
+- Today I optimized the combination sum problem I solved yesterday. It's so amazing how little changes in our logic can produce big impact in performance.
+- I also solved another problem on leetcode today.
+- I practiced node affinity, taints and toleration and how to use labels to schedule pods on a particular node in the k8s cluster.
+- I learned about lamda functions today.
