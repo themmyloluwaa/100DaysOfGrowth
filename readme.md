@@ -496,3 +496,11 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I continued my k8s preparation and practiced some things like how to combine taint and toleration with node affinity to restrict pods from being scheduled on nodes.
 - I worked with AWS Lambda functions and implemented a function that generates gif previews using ffmpeg package anytime videos are uploaded to an S3 bucket. Really proud of my growth this year. A year ago, anytime I hear lambda functions or serverless, I think it's a mathematical concept in programming or I just blank. Now, I don't just understand it a little, I'm also leveraging them to build solutions.
 - I fixed some bugs related to the microservice project my course mates and I are working on.
+
+### Day 81, 82
+
+- I solved two problems on leetcode
+- I learned about monitoring and logging in k8s cluster and added a monitoring server to a cluster.
+- I learned about the container advisor component in k8s.
+- I have started learning about AWS SNS service and how to leverage it to build some really cool feature. My use case is to have a lambda function subscribe to a S3 generated event and perform some media conversion.
+- I made some preparation to resume school on monday.
