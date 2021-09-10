@@ -489,3 +489,10 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I also solved another problem on leetcode today.
 - I practiced node affinity, taints and toleration and how to use labels to schedule pods on a particular node in the k8s cluster.
 - I learned about lamda functions today.
+
+### Day 79, 80
+
+- I solved a couple of problems like combination sum 3, invert binary tree and find diameter of a binary tree problem on leetcode. Today,
+- I continued my k8s preparation and practiced some things like how to combine taint and toleration with node affinity to restrict pods from being scheduled on nodes.
+- I worked with AWS Lambda functions and implemented a function that generates gif previews using ffmpeg package anytime videos are uploaded to an S3 bucket. Really proud of my growth this year. A year ago, anytime I hear lambda functions or serverless, I think it's a mathematical concept in programming or I just blank. Now, I don't just understand it a little, I'm also leveraging them to build solutions.
+- I fixed some bugs related to the microservice project my course mates and I are working on.
