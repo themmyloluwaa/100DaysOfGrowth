@@ -510,3 +510,10 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I continued my k8s learnings and learned about deployment strategies. I also practiced rollout, recreate, deployment rollbacks. I also practiced passing env variables and arguments to containers using k8s.
 - I applied to jobs and also had an algorithm review session with @wole.
 - I implemented the UI component for school/event and school/announcement functionality for the microservice application. I also connected the UI with the existing backend.
+
+### Day 85, 86
+
+- Today, I solved the generate parenthesis question and find first non repeating character in a string on leetcode.
+- I did practice sessions on k8s related to secrets, config maps, env variables, etc.
+- I continued implementing the backend endpoints in kubernetes.
+- Watched a system design resource on designing an application like Instagram.
