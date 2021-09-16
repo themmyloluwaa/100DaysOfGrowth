@@ -517,3 +517,10 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I did practice sessions on k8s related to secrets, config maps, env variables, etc.
 - I continued implementing the backend endpoints in kubernetes.
 - Watched a system design resource on designing an application like Instagram.
+
+### Day 87, 88
+
+- I solved four leetcode problems. One related to implementing a minStack, another related to checking if two strings are anagrams.
+- I continued battling with AWS and successfully implemented the endpoints that returns a preview url of an AWS Lambda generated gif.
+- I implemented school and event pages for the web application project I've been working on. I hope we can finally ship this out before the end of this month.
+- And yes, I had my first lecture for the third semester today on Quantum informatics. God help me!!
