@@ -524,3 +524,9 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I continued battling with AWS and successfully implemented the endpoints that returns a preview url of an AWS Lambda generated gif.
 - I implemented school and event pages for the web application project I've been working on. I hope we can finally ship this out before the end of this month.
 - And yes, I had my first lecture for the third semester today on Quantum informatics. God help me!!
+
+### Day 89, 90
+
+- I practiced upgrading a kubernetes cluster. I also practiced init containers and troubleshooting some kubernetes issues.
+- I continued practicing Data structures and algorithms
+- I applied for a few jobs.
