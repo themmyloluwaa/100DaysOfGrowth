@@ -530,3 +530,9 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I practiced upgrading a kubernetes cluster. I also practiced init containers and troubleshooting some kubernetes issues.
 - I continued practicing Data structures and algorithms
 - I applied for a few jobs.
+
+### Day 91, 92
+
+- I solved the combination sum 2 problem on leetcode and revised the backtracing concept using some previously solved algorithms.
+- I practiced kubernetes cluster backup and recovery and revised node affinity, selector and taints concepts.
+- I am currently reading up about deploying Django applications to production.
