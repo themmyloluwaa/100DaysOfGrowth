@@ -536,3 +536,8 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I solved the combination sum 2 problem on leetcode and revised the backtracing concept using some previously solved algorithms.
 - I practiced kubernetes cluster backup and recovery and revised node affinity, selector and taints concepts.
 - I am currently reading up about deploying Django applications to production.
+
+### Day 93, 94
+
+- I solved three problems on leetcode
+- I provisioned a kubernetes on AWS using EKSCTL and started preparing the GitOps managed deployment workflow
