@@ -547,3 +547,10 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I solved four problems on leetcode one being Populating Next Right Pointers in Each Node II.
 - I started the skip the line book
 - I learned about complex numbers and refreshed some basic maths.
+
+### Day 97, 98
+
+- I solved the invalid transaction problem on leetcode and the number of islands problem.
+- I also learned how to implement the iter and next method to make a class iterable in python.
+- I learned about kubernetes server, client and admin certificates and how to generate certificate and certificate authority fo a kubernetes cluster
+- I read chapter two of skip the line.
