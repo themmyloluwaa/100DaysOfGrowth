@@ -541,3 +541,9 @@ This repository contains a report (code, text, images etc) of my summer learning
 
 - I solved three problems on leetcode
 - I provisioned a kubernetes on AWS using EKSCTL and started preparing the GitOps managed deployment workflow
+
+### Day 95, 96
+
+- I solved four problems on leetcode one being Populating Next Right Pointers in Each Node II.
+- I started the skip the line book
+- I learned about complex numbers and refreshed some basic maths.
