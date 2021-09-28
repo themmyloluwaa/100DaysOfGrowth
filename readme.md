@@ -554,3 +554,11 @@ This repository contains a report (code, text, images etc) of my summer learning
 - I also learned how to implement the iter and next method to make a class iterable in python.
 - I learned about kubernetes server, client and admin certificates and how to generate certificate and certificate authority fo a kubernetes cluster
 - I read chapter two of skip the line.
+
+### Day 99, 100
+
+- It's been an amazing 100 days of consistent learning, improving, failing, unlearning and getting better each day. For the last two days, I've spent most of my time solving Leetcode problems, revising concepts, attending classes and improving my kubernetes skills.
+- I solved permutations, combinations, letter phone combinations and some other problems.
+- The article on sharing content in react native finally got published. Find it [here](https://blog.logrocket.com/sharing-content-react-native-apps-using-react-native-share/)
+- Lastly, I would spend the next few weeks documenting my experience with this journey, take out time to focus on school, continue solving problems and getting better at working with DevOps/SRE tooling.
+- #100daysofgrowth blogpost coming up soon.
